@@ -1,14 +1,9 @@
- /******************************************************************************
+/*
+gpio.h
  *
- * Module: GPIO
- *
- * File Name: gpio.h
- *
- * Description: Header file for the AVR GPIO driver
- *
- * Author: Mohamed Tarek
- *
- *******************************************************************************/
+ *  Created on: Oct 8, 2022
+ *      Author: abdoa
+ */
 
 #ifndef GPIO_H_
 #define GPIO_H_
