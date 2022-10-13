@@ -1,5 +1,5 @@
 /*
-gpio.h
+gpio.c
  *
  *  Created on: Oct 8, 2022
  *      Author: abdoa
