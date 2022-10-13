@@ -1,14 +1,10 @@
- /******************************************************************************
+
+/*
+lm35_sensor.h
  *
- * Module: Temperature Sensor
- *
- * File Name: lm35_sensor.h
- *
- * Description: source file for the LM35 Temperature Sensor driver
- *
- * Author: Mohamed Tarek
- *
- *******************************************************************************/
+ *  Created on: Oct 8, 2022
+ *      Author: abdoa
+ */
 
 #include "lm35_sensor.h"
 #include "adc.h"
