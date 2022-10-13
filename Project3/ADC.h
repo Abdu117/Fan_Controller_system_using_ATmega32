@@ -1,14 +1,11 @@
- /******************************************************************************
+
+/*
+ * ADC.h
  *
- * Module: ADC
- *
- * File Name: adc.h
- *
- * Description: header file for the ATmega16 ADC driver
- *
- * Author: Mohamed Tarek
- *
- *******************************************************************************/
+ *  Created on: Oct 8, 2022
+ *      Author: abdoa
+ */
+
 
 #ifndef ADC_H_
 #define ADC_H_
