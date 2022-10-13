@@ -1,10 +1,8 @@
 /*
- ============================================================================
- Name        : ATmega32_Regs.h
- Author      : Mohamed Tarek
- Description : Header file for ATmega16 Registers Declaration
- Date        : 31/3/2019
- ============================================================================
+ * ATmega32_Regs.h
+ *
+ *  Created on: Oct 8, 2022
+ *      Author: abdoa
  */
 
 #ifndef ATMEGA32_REGS_H_
