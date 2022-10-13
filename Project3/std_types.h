@@ -1,14 +1,10 @@
- /******************************************************************************
+
+/*
+std_types.h
  *
- * Module: Common - Platform Types Abstraction
- *
- * File Name: std_types.h
- *
- * Description: types for AVR
- *
- * Author: Mohamed Tarek
- *
- *******************************************************************************/
+ *  Created on: Oct 8, 2022
+ *      Author: abdoa
+ */
 
 #ifndef STD_TYPES_H_
 #define STD_TYPES_H_
