@@ -1,14 +1,9 @@
- /******************************************************************************
+/*
+ * Common_Macros.h
  *
- * Module: Common - Macros
- *
- * File Name: Common_Macros.h
- *
- * Description: Commonly used Macros
- *
- * Author: Mohamed Tarek
- *
- *******************************************************************************/
+ *  Created on: Oct 8, 2022
+ *      Author: abdoa
+ */
 
 #ifndef COMMON_MACROS // in order to avoid duplicating the macros in the code
 #define COMMON_MACROS
