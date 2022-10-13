@@ -1,6 +1,6 @@
 
 /*
-lm35_sensor.h
+lm35_sensor.c
  *
  *  Created on: Oct 8, 2022
  *      Author: abdoa
